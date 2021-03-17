@@ -1,4 +1,6 @@
-# Seam_Carving
+Project: Seam_Carving
+
+Level: Challenging
 
 About
 Seam carving is an image processing technique for content aware image resizing.
